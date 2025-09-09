@@ -18,6 +18,8 @@ Call the rain method of the umbrella class, passing the user-provided radius r a
 Terminate the program.
 # PROGRAM
 ```
+# REGNO:-212222060175
+# Name:-Penumalli GowriNandini
 import math
 class umbrella:
     def rain(self,r):
