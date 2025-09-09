@@ -89,5 +89,4 @@ main()
 Thus the arithmetic calculation using class has been implemented and executed successfully.
 
 
-RESULT
-Thus the arithmetic calculation using class has been implemented and executed successfully.
+
